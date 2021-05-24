@@ -8,3 +8,6 @@
 //ALLOC    DD DSN=DSNAME,DISP=(NEW,CATLG),        
 //         RECFM=F,BLKSIZE=80,LRECL=80,SPACE=(TRK,(2,2))
 ```
+Result:
+
+![Result](https://github.com/studenichnik/Global-Repository-for-Mainframe-Developers/blob/master/zOS%20System%20operating/Topic/result.jpg)
